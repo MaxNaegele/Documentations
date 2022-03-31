@@ -8,3 +8,6 @@ https://jonathancardoso.com/en/blog/automated-release-publish-deployment-react-n
 
 #JENKINS
 https://octopus.com/docs/guides/deploy-aspnetcore-app/to-iis/using-octopus-onprem-jenkins-builtin
+
+#Comandos mongodb
+https://mongodbwise.wordpress.com/2014/05/22/mongodb-guia-rapido/
